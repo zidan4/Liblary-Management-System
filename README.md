@@ -1,4 +1,4 @@
-# Liblary-Management-System
+# Library-Management-System
 
 ✅ OOP Principles (Encapsulation, Inheritance, Polymorphism)
 ✅ Book Borrowing & Returning
